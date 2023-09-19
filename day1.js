@@ -8,6 +8,7 @@ var createHelloWorld = function() {
     }
 };
 
-
-const f = createHelloWorld();
-f(); // "Hello World"
+/**
+ * const f = createHelloWorld();
+ * f(); // "Hello World"
+ */
